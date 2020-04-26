@@ -1,0 +1,3 @@
+gcc -g -Wall -fopenmp -o ompn ompn.c -lm
+
+./ompn
